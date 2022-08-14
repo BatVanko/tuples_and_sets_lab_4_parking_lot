@@ -1,4 +1,4 @@
-# tuples_and_sets_lab_lab_4_parking_lot
+# tuples_and_sets_lab_4_parking_lot
 Write a program that:
 •	Records a car number for every car that enters the parking lot
 •	Removes a car number when the car leaves the parking lot
